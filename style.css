@@ -235,8 +235,12 @@ body::after {
     flex-direction: row;
     gap: 1.5rem;
   }
+  .opinion-container .one{
+    margin-bottom: 2rem;
+  }
   .opinion-container .two {
     margin-top: 1rem;
+    margin-bottom: 1rem;
   }
   .opinion-container .three {
     margin-top: 2rem;
